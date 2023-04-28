@@ -28,7 +28,7 @@
 26,2009,1,27,Carolina Hurricanes,Philippe Paradis,18871,1991-01-02,CAN,"6' 2""",210,L,8475152,LW,North American Skater,QMJHL,Shawinigan,0,0
 27,2009,1,28,Chicago Blackhawks,Dylan Olsen,18516,1991-01-03,USA,"6' 2""",206,L,8475153,D,North American Skater,AJHL,Camrose,124,0
 28,2009,1,29,Tampa Bay Lightning,Carter Ashton,591,1991-04-01,CAN,"6' 2""",205,L,8475154,RW,North American Skater,WHL,Lethbridge,54,0
-29,2009,1,30,Pittsburgh Penguins,Simon Despres,6011,1991-01-26,CAN,"6' 4""",218,L,8475155,D,North American Skater,QMJHL,Saint John,193,0
+29,2009,1,30,Pittsburgh Penguins,Simon Despres,6011,1991-07-27,CAN,"6' 4""",218,L,8475155,D,North American Skater,QMJHL,Saint John,193,0
 30,2009,2,32,Detroit Red Wings,Landon Ferraro,7507,1991-08-08,CAN,"6' 0""",167,R,8475157,C,North American Skater,WHL,Red Deer,77,0
 31,2009,2,33,Colorado Avalanche,Ryan O'Reilly,18401,1991-02-07,CAN,"6' 0""",208,L,8475158,C,North American Skater,OHL,Erie,991,1
 32,2009,2,34,Atlanta Thrashers,Carl Klingberg,36938,1991-01-28,SWE,"6' 3""",226,R,8475159,RW,European Skater,SWEDEN-JR.,Frolunda Jr.,12,0
@@ -81,7 +81,7 @@
 81,2009,3,88,Carolina Hurricanes,Mattias Lindstrom,39547,1991-03-21,SWE,"6' 4""",203,L,8475239,LW,European Skater,SWEDEN-JR.,Skelleftea Jr.,0,0
 82,2009,3,89,Chicago Blackhawks,Dan Delisle,5821,1990-09-24,USA,"6' 5""",225,L,8475240,LW,North American Skater,HIGH-MN,Totino Grace,0,0
 83,2009,3,90,Detroit Red Wings,Gleason Fournier,7987,1991-09-08,CAN,"6' 0""",191,L,8475229,D,North American Skater,QMJHL,Rimouski,0,0
-84,2009,4,92,New York Islanders,Casey Cizikas,4261,1991-01-26,CAN,"5' 10""",190,L,8475231,C,North American Skater,OHL,Mississauga St. Michael's,745,1
+84,2009,4,92,New York Islanders,Casey Cizikas,4261,1991-02-27,CAN,"5' 10""",190,L,8475231,C,North American Skater,OHL,Mississauga St. Michael's,745,1
 85,2009,4,93,Tampa Bay Lightning,Alex Hutchings,11332,1990-11-07,CAN,"5' 10""",184,R,8475232,LW,North American Skater,OHL,Barrie,0,0
 86,2009,4,94,Columbus Blue Jackets,David Savard,21696,1990-10-22,CAN,"6' 1""",212,R,8475233,D,North American Skater,QMJHL,Moncton,735,1
 87,2009,4,96,Los Angeles Kings,Linden Vey,25300,1991-07-17,CAN,"6' 0""",194,R,8475223,C,North American Skater,WHL,Medicine Hat,138,0
@@ -332,7 +332,7 @@
 336,2010,6,162,Edmonton Oilers,Brandon Davidson,5569,1991-08-21,CAN,"6' 1""",190,L,8475869,D,North American Skater,WHL,Regina,180,0
 337,2010,6,163,San Jose Sharks,Konrad Abeltshauser,19,1992-09-02,DEU,"6' 6""",225,L,8475870,D,North American Skater,QMJHL,Halifax,0,0
 338,2010,6,164,St. Louis Blues,Stephen Macaulay,14877,1992-04-20,CAN,"6' 2""",187,L,8475875,LW,North American Skater,QMJHL,Saint John,0,0
-339,2010,6,166,Edmonton Oilers,Drew Czerwonka,5348,1992-07-01,CAN,"6' 2""",189,L,8475877,LW,North American Skater,WHL,Kootenay,0,0
+339,2010,6,166,Edmonton Oilers,Drew Czerwonka,5348,1992-01-07,CAN,"6' 2""",189,L,8475877,LW,North American Skater,WHL,Kootenay,0,0
 340,2010,6,167,Carolina Hurricanes,Tyler Stahl,23295,1992-01-29,CAN,"6' 1""",210,R,8475867,D,North American Skater,WHL,Chilliwack,0,0
 341,2010,6,168,Nashville Predators,Anthony Bitetto,1867,1990-07-15,USA,"6' 0""",210,L,8475868,D,North American Skater,USHL,Indiana,197,0
 342,2010,6,169,Atlanta Thrashers,Sebastian Owuya,18715,1991-10-08,SWE,"6' 4""",207,L,8475866,D,North American Skater,SWEDEN-JR.,Timra Jr.,0,0
@@ -351,7 +351,7 @@
 355,2010,7,186,Tampa Bay Lightning,Teigan Zahn,26746,1990-01-04,CAN,"6' 1""",218,L,8474695,D,North American Skater,WHL,Saskatoon,0,0
 356,2010,7,188,San Jose Sharks,Lee Moffie,17156,1990-08-29,USA,"6' 1""",200,L,8475888,D,North American Skater,CCHA,U. of Michigan,0,0
 357,2010,7,189,Minnesota Wild,Dylen Mckinlay,16382,1992-04-20,CAN,"5' 11""",184,L,8475886,LW,North American Skater,WHL,Chilliwack,0,0
-358,2010,7,190,New York Rangers,Randy Mcnaught,16541,1990-08-05,CAN,"6' 4""",222,R,8475887,RW,North American Skater,WHL,Saskatoon,0,0
+358,2010,7,190,New York Rangers,Randy Mcnaught,16541,1990-09-05,CAN,"6' 4""",222,R,8475887,RW,North American Skater,WHL,Saskatoon,0,0
 359,2010,7,192,Anaheim Ducks,Brett Perlini,19302,1990-06-14,CAN,"6' 2""",200,R,8475885,RW,North American Skater,CCHA,Michigan State U.,0,0
 360,2010,7,193,Calgary Flames,Patrick Holland,10900,1992-01-07,CAN,"6' 0""",182,R,8475889,RW,North American Skater,WHL,Tri-City,5,0
 361,2010,7,194,Nashville Predators,David Elsner,31314,1992-03-22,DEU,"6' 0""",187,L,8475891,LW,North American Skater,GERMAN-2,Landshut Cann.,0,0
@@ -495,7 +495,7 @@
 500,2011,5,127,New York Islanders,Brenden Kichton,12511,1992-06-18,CAN,"5' 10""",175,R,8476006,D,North American Skater,WHL,Spokane,0,0
 501,2013,7,190,Winnipeg Jets,Brenden Kichton,12511,1992-06-18,CAN,"5' 10""",175,R,8476006,D,North American Skater,WHL,Spokane,0,0
 502,2013,7,190,Winnipeg Jets,Brenden Kichton,12511,1992-06-18,CAN,"5' 10""",175,R,8476006,D,North American Skater,WHL,Spokane,0,0
-503,2011,5,128,Columbus Blue Jackets,Seth Ambroz,285,1993-04-03,USA,"6' 2""",209,R,8476369,RW,North American Skater,USHL,Omaha,0,0
+503,2011,5,128,Columbus Blue Jackets,Seth Ambroz,285,1993-04-01,USA,"6' 2""",209,R,8476369,RW,North American Skater,USHL,Omaha,0,0
 504,2011,5,129,New Jersey Devils,Blake Pietila,19592,1993-02-20,USA,"5' 11""",189,L,8476370,LW,North American Skater,USHL,USA U-18,38,0
 505,2011,5,130,Toronto Maple Leafs,Tony Cameranesi,3371,1993-08-12,USA,"5' 10""",194,R,8476371,C,North American Skater,HIGH-MN,Wayzata,0,0
 506,2011,5,131,Minnesota Wild,Nick Seeler,22118,1993-06-03,USA,"6' 1""",184,L,8476372,D,North American Skater,HIGH-MN,Eden Prarie,225,1
@@ -615,7 +615,7 @@
 624,2012,2,51,Montréal Canadiens,Dalton Thrower,24432,1993-12-20,CAN,"6' 0""",198,R,8476926,D,North American Skater,WHL,Saskatoon,0,0
 625,2012,2,52,Pittsburgh Penguins,Teddy Blueger,2011,1994-08-15,LVA,"6' 1""",185,L,8476927,C,North American Skater,HIGH-MN,Shattuck-St. Mary's,268,1
 626,2012,2,53,Tampa Bay Lightning,Brian Hart,10227,1993-11-25,USA,"6' 2""",203,R,8476928,RW,North American Skater,HIGH-NH,Phillips-Exeter,0,0
-627,2012,2,54,Dallas Stars,Mike Winther,26354,1994-01-09,CAN,"6' 0""",191,L,8476929,C,North American Skater,WHL,Prince Albert,0,0
+627,2012,2,54,Dallas Stars,Mike Winther,26354,1994-07-09,CAN,"6' 0""",191,L,8476929,C,North American Skater,WHL,Prince Albert,0,0
 628,2012,2,55,San Jose Sharks,Chris Tierney,24459,1994-07-01,CAN,"6' 1""",190,L,8476919,C,North American Skater,OHL,London,597,1
 629,2012,2,56,St. Louis Blues,Samuel Kurker,13206,1994-04-08,USA,"6' 2""",209,R,8476920,RW,North American Skater,HIGH-MA,St. John's Prep,0,0
 630,2012,2,57,Vancouver Canucks,Alexandre Mallet,15331,1992-05-22,CAN,"6' 1""",195,R,8475978,LW,North American Skater,QMJHL,Rimouski,0,0
@@ -826,7 +826,7 @@
 847,2013,3,90,Boston Bruins,Peter Cehlarik,53923,1995-08-02,SVK,"6' 2""",201,L,8477417,LW,North American Skater,SWEDEN-JR.,Lulea Jr.,40,0
 848,2013,3,91,Winnipeg Jets,Jc Lipon,14461,1993-07-10,CAN,"6' 0""",180,R,8477076,RW,North American Skater,WHL,Kamloops,9,0
 849,2013,4,93,Colorado Avalanche,Mason Geertsen,8661,1995-04-19,CAN,"6' 3""",210,L,8477419,D,North American Skater,WHL,Vancouver,25,0
-850,2013,4,94,Edmonton Oilers,Jackson Houck,11061,1995-02-27,CAN,"6' 0""",190,R,8477420,RW,North American Skater,WHL,Vancouver,0,0
+850,2013,4,94,Edmonton Oilers,Jackson Houck,11061,1995-02-02,CAN,"6' 0""",190,R,8477420,RW,North American Skater,WHL,Vancouver,0,0
 851,2013,4,95,Nashville Predators,Felix Girard,8968,1994-05-09,CAN,"5' 11""",192,R,8477058,C,North American Skater,QMJHL,Baie Comeau,0,0
 852,2013,4,96,Edmonton Oilers,Kyle Platzer,19713,1995-03-04,CAN,"6' 0""",185,R,8477421,C,North American Skater,OHL,London,0,0
 853,2013,4,97,Florida Panthers,Michael Downing,6478,1995-05-19,USA,"6' 3""",185,L,8477422,D,North American Skater,USHL,Dubuque,0,0
@@ -863,10 +863,10 @@
 885,2013,5,134,Chicago Blackhawks,Luke Johnson,11848,1994-09-19,USA,"5' 11""",179,R,8477366,C,North American Skater,USHL,Lincoln,32,0
 886,2013,5,135,Calgary Flames,Eric Roy,21245,1994-10-24,CAN,"6' 2""",195,L,8477367,D,North American Skater,WHL,Brandon,0,0
 887,2013,5,136,New York Islanders,Viktor Crus Rydberg,30304,1995-03-21,SWE,"6' 0""",188,R,8477368,C,European Skater,SWEDEN-JR.,Linkoping Jr.,0,0
-888,2013,5,137,Minnesota Wild,Carson Soucy,56770,1994-07-27,CAN,"6' 4""",191,L,8477369,D,North American Skater,AJHL,Spruce Grove,250,1
+888,2013,5,137,Minnesota Wild,Carson Soucy,56770,1994-07-24,CAN,"6' 4""",191,L,8477369,D,North American Skater,AJHL,Spruce Grove,250,1
 889,2013,5,138,Ottawa Senators,Vincent Dunn,6734,1995-09-14,CAN,"5' 10""",185,L,8477370,C,North American Skater,QMJHL,Val d'Or,0,0
 890,2013,5,139,Detroit Red Wings,Mitch Wheaton,25970,1995-02-06,CAN,"6' 5""",222,R,8477371,D,North American Skater,WHL,Kelowna,0,0
-891,2013,5,140,Nashville Predators,Teemu Kivihalme,36811,1995-06-17,USA,"6' 0""",157,L,8477372,D,North American Skater,HIGH-MN,Burnsville,0,0
+891,2013,5,140,Nashville Predators,Teemu Kivihalme,36811,1995-06-14,USA,"6' 0""",157,L,8477372,D,North American Skater,HIGH-MN,Burnsville,0,0
 892,2013,5,141,San Jose Sharks,Michael Brodzinski,2793,1995-05-28,USA,"5' 11""",197,R,8477373,D,North American Skater,USHL,Muskegon,0,0
 893,2013,5,142,Toronto Maple Leafs,Fabrice Herzog,53329,1994-12-09,CHE,"6' 2""",193,L,8477374,RW,North American Skater,SWISS-JR.,Zug Jr.,0,0
 894,2013,5,143,Buffalo Sabres,Anthony Florentino,7774,1995-01-30,USA,"6' 1""",210,R,8477375,D,North American Skater,HIGH-CT,South Kent School,0,0
@@ -885,7 +885,7 @@
 907,2013,6,157,Calgary Flames,Tim Harrison,58426,1994-01-11,USA,"6' 3""",193,L,8477389,RW,North American Skater,HIGH-MA,Dexter School,0,0
 908,2013,6,158,Edmonton Oilers,Ben Betker,53499,1994-09-29,CAN,"6' 5""",226,L,8477390,D,North American Skater,WHL,Everett,0,0
 909,2013,6,159,Buffalo Sabres,Sean Malone,54058,1995-04-30,USA,"6' 0""",190,L,8477391,C,North American Skater,USHL,USA U-18,2,0
-910,2013,6,160,New Jersey Devils,Myles Bell,1449,1993-08-19,CAN,"6' 1""",212,R,8477393,LW,North American Skater,WHL,Kelowna,0,0
+910,2013,6,160,New Jersey Devils,Myles Bell,1449,1993-08-13,CAN,"6' 1""",212,R,8477393,LW,North American Skater,WHL,Kelowna,0,0
 911,2013,6,161,Ottawa Senators,Chris Leblanc,54594,1993-09-12,USA,"6' 3""",195,R,8477394,RW,North American Skater,EJHL,South Shore,0,0
 912,2013,6,164,Pittsburgh Penguins,Dane Birks,56843,1995-08-29,CAN,"6' 1""",170,R,8477397,D,North American Skater,BCHL,Merritt,0,0
 913,2013,6,165,Columbus Blue Jackets,Markus Soberg,47676,1995-04-22,NOR,"6' 0""",187,R,8477345,RW,European Skater,SWEDEN-JR.,Frolunda Jr.,0,0
@@ -1061,7 +1061,7 @@
 1090,2014,6,151,Buffalo Sabres,Christopher Brown,57003,1996-02-22,USA,"6' 0""",183,R,8478080,C,North American Skater,HIGH-MI,Cranbrook Kingswood,0,0
 1091,2014,6,152,New Jersey Devils,Joey Dudek,55077,1996-01-29,USA,"5' 11""",182,R,8478081,C,North American Skater,HIGH-NH,Kimball Union Academy,0,0
 1092,2014,6,153,Edmonton Oilers,Tyler Vesel,53029,1994-04-14,USA,"5' 11""",180,R,8478082,C,North American Skater,USHL,Omaha,0,0
-1093,2014,6,154,Dallas Stars,Aaron Haydon,54780,1996-01-06,USA,"6' 3""",213,R,8478083,D,North American Skater,OHL,Niagara,0,0
+1093,2014,6,154,Dallas Stars,Aaron Haydon,54780,1996-02-06,USA,"6' 3""",213,R,8478083,D,North American Skater,OHL,Niagara,0,0
 1094,2014,6,155,New York Islanders,Kyle Schempp,53210,1994-01-13,USA,"6' 0""",178,L,8478084,C,North American Skater,WCHA,Ferris State U.,0,0
 1095,2014,6,156,Vancouver Canucks,Kyle Pettit,54798,1996-01-19,CAN,"6' 4""",200,L,8478085,C,North American Skater,OHL,Erie,0,0
 1096,2014,6,157,Los Angeles Kings,Jake Marchment,15460,1995-05-20,CAN,"6' 3""",218,R,8478086,C,North American Skater,OHL,Belleville,0,0
@@ -1341,7 +1341,7 @@
 1376,2016,2,43,Carolina Hurricanes,Janne Kuokkanen,64859,1998-05-25,FIN,"6' 1""",192,L,8479511,C,North American Skater,Finland Jr.,Karpat Jr.,119,0
 1377,2016,2,44,Tampa Bay Lightning,Boris Katchouk,63863,1998-06-18,CAN,"6' 1""",190,L,8479383,LW,North American Skater,OHL,Sault Ste. Marie,117,0
 1378,2016,2,45,Chicago Blackhawks,Chad Krys,60279,1998-04-10,USA,"5' 11""",185,L,8479342,D,North American Skater,USHL,USA U-18,0,0
-1379,2016,2,46,Detroit Red Wings,Givani Smith,63845,1998-02-28,CAN,"6' 2""",218,L,8479379,RW,North American Skater,OHL,Guelph,119,0
+1379,2016,2,46,Detroit Red Wings,Givani Smith,63845,1998-02-27,CAN,"6' 2""",218,L,8479379,RW,North American Skater,OHL,Guelph,119,0
 1380,2016,2,47,Nashville Predators,Samuel Girard,64402,1998-05-12,CAN,"5' 10""",167,L,8479398,D,North American Skater,QMJHL,Shawinigan,416,1
 1381,2016,2,49,Boston Bruins,Ryan Lindgren,58808,1998-02-11,USA,"6' 0""",203,L,8479324,D,North American Skater,USHL,USA U-18,257,1
 1382,2016,2,50,Chicago Blackhawks,Artur Kayumov,67541,1998-02-14,RUS,"5' 11""",176,L,8479426,RW,European Skater,RUSSIA-JR.,Team Russia U18,0,0
@@ -1575,7 +1575,7 @@
 1611,2017,4,94,Colorado Avalanche,Nick Henry,64319,1999-07-04,CAN,"5' 11""",187,R,8479997,RW,North American Skater,WHL,Regina,0,0
 1612,2017,4,95,Vancouver Canucks,Jack Rathbone,67976,1999-05-20,USA,"5' 10""",172,L,8480056,D,North American Skater,HIGH-MA,Dexter School,28,0
 1613,2017,4,97,Minnesota Wild,Mason Shaw,60468,1998-11-03,CAN,"5' 8""",173,L,8479972,C,North American Skater,WHL,Medicine Hat,62,0
-1614,2017,4,98,New Jersey Devils,Nikita Popugaev,67226,1998-06-13,RUS,"5' 9""",172,L,8480006,LW,European Skater,WHL,Prince George,0,0
+1614,2017,4,98,New Jersey Devils,Nikita Popugaev,67226,1998-11-20,RUS,"5' 9""",172,L,8480006,LW,European Skater,WHL,Prince George,0,0
 1615,2017,4,99,Buffalo Sabres,Jacob Bryson,67114,1997-11-18,CAN,"5' 9""",178,L,8480196,D,North American Skater,H-EAST,Providence,170,0
 1616,2017,4,100,Detroit Red Wings,Malte Setkov,71685,1999-01-14,DNK,"6' 6""",220,L,8480197,D,European Skater,SWEDEN-JR.,Malmo Jr.,0,0
 1617,2017,4,101,Dallas Stars,Liam Hawel,68094,1999-04-18,CAN,"6' 4""",195,R,8480198,C,North American Skater,OHL,Guelph,0,0
@@ -1709,7 +1709,7 @@
 1745,2018,1,24,Minnesota Wild,Filip Johansson,73051,2000-03-23,SWE,"6' 1""",180,R,8480872,D,European Skater,SWEDEN-JR.,Leksand Jr.,0,0
 1746,2018,1,25,St. Louis Blues,Dominik Bokk,69994,2000-02-03,DEU,"6' 2""",179,R,8480827,RW,European Skater,SWEDEN-JR.,Vaxjo Jr.,0,0
 1747,2018,1,26,Ottawa Senators,Jacob Bernard-Docker,75182,2000-06-30,CAN,"6' 0""",187,R,8480879,D,North American Skater,AJHL,Okotoks,32,0
-1748,2018,1,27,Chicago Blackhawks,Nicolas Beaudin,68699,1999-10-09,CAN,"5' 11""",172,L,8480814,D,North American Skater,QMJHL,Drummondville,22,0
+1748,2018,1,27,Chicago Blackhawks,Nicolas Beaudin,68699,1999-10-07,CAN,"5' 11""",172,L,8480814,D,North American Skater,QMJHL,Drummondville,22,0
 1749,2018,1,28,New York Rangers,Nils Lundkvist,75162,2000-07-27,SWE,"5' 11""",180,R,8480878,D,European Skater,SWEDEN,Lulea,85,0
 1750,2018,1,29,Toronto Maple Leafs,Rasmus Sandin,73053,2000-03-07,SWE,"5' 11""",186,L,8480873,D,European Skater,OHL,Sault Ste. Marie,159,0
 1751,2018,1,30,Detroit Red Wings,Joe Veleno,68662,2000-01-13,CAN,"6' 1""",191,L,8480813,C,North American Skater,QMJHL,Drummondville,152,0
@@ -1751,7 +1751,7 @@
 1787,2018,3,69,Chicago Blackhawks,Jake Wise,66983,2000-02-28,USA,"5' 10""",195,L,8480793,C,North American Skater,NTDP,USA U-18,0,0
 1788,2018,3,70,New York Rangers,Jacob Ragnarsson,74872,1999-09-23,USA,"6' 0""",176,L,8481021,D,European Skater,SWEDEN-2,ALMTUNA,0,0
 1789,2018,3,71,Montréal Canadiens,Jordan Harris,71896,2000-07-07,USA,"5' 11""",179,L,8480887,D,North American Skater,HIGH-NH,Kimball Union Academy,75,0
-1790,2018,3,73,Arizona Coyotes,Ty Emberson,71903,2000-05-23,USA,"6' 0""",200,R,8480834,D,North American Skater,NTDP,USA U-18,0,0
+1790,2018,3,73,Arizona Coyotes,Ty Emberson,71903,2000-05-24,USA,"6' 0""",200,R,8480834,D,North American Skater,NTDP,USA U-18,0,0
 1791,2018,3,74,Chicago Blackhawks,Niklas Nordgren,73212,2000-05-04,FIN,"5' 9""",169,R,8480875,RW,European Skater,FINLAND-JR.,HIFK Jr.,0,0
 1792,2018,3,75,Dallas Stars,Oskar Back,71989,2000-03-12,SWE,"6' 3""",204,L,8480840,C,European Skater,SWEDEN-JR.,Farjestad Jr.,0,0
 1793,2018,3,76,Toronto Maple Leafs,Semyon Der-Arguchintsev,72820,2000-09-15,RUS,"5' 10""",163,R,8480977,C,North American Skater,OHL,Peterborough,1,0
@@ -1767,7 +1767,7 @@
 1803,2018,3,88,New York Rangers,Joey Keane,67021,1999-07-02,USA,"6' 0""",180,R,8480466,D,North American Skater,OHL,Barrie,2,0
 1804,2018,3,89,Florida Panthers,Logan Hutsko,66253,1999-02-11,USA,"5' 10""",172,R,8481025,RW,North American Skater,H-EAST,Boston College,0,0
 1805,2018,3,90,Tampa Bay Lightning,Dmitry Semykin,77093,2000-02-24,RUS,"6' 3""",201,R,8481060,D,European Skater,RUSSIA-JR.,Stupino 2,0,0
-1806,2018,3,91,Winnipeg Jets,Nathan Smith,80244,1998-10-19,USA,"6' 0""",184,R,8480979,C,North American Skater,USHL,Cedar Rapids,14,0
+1806,2018,3,91,Winnipeg Jets,Nathan Smith,80244,1998-10-18,USA,"6' 0""",184,R,8480979,C,North American Skater,USHL,Cedar Rapids,14,0
 1807,2018,3,92,Minnesota Wild,Connor Dewar,64367,1999-06-26,CAN,"5' 10""",178,L,8480980,C,North American Skater,WHL,Everett,116,0
 1808,2018,3,93,Washington Capitals,Riley Sutter,64385,1999-10-25,CAN,"6' 3""",209,R,8480791,RW,North American Skater,WHL,Everett,0,0
 1809,2018,4,94,Buffalo Sabres,Matej Pekar,75225,2000-02-10,CZE,"6' 1""",185,L,8480881,LW,North American Skater,USHL,Muskegon,0,0
@@ -1804,7 +1804,7 @@
 1841,2018,5,130,Vancouver Canucks,Toni Utunen,72225,2000-04-27,FIN,"5' 11""",179,L,8481066,D,European Skater,FINLAND-2,Leki,0,0
 1842,2018,5,131,Nashville Predators,Spencer Stastney,71897,2000-01-04,USA,"5' 10""",180,L,8481056,D,North American Skater,NTDP,USA U-18,8,0
 1843,2018,5,132,New York Rangers,Lauri Pajuniemi,68977,1999-09-12,FIN,"5' 11""",183,R,8480986,RW,European Skater,FINLAND,TPS,0,0
-1844,2018,5,133,Montréal Canadiens,Samuel Houde,72999,2000-03-08,CAN,"6' 0""",177,L,8480987,C,North American Skater,QMJHL,Chicoutimi,0,0
+1844,2018,5,133,Montréal Canadiens,Samuel Houde,72999,2000-03-06,CAN,"6' 0""",177,L,8480987,C,North American Skater,QMJHL,Chicoutimi,0,0
 1845,2018,5,134,New York Islanders,Blade Jenkins,67588,2000-08-11,USA,"6' 2""",212,L,8480799,LW,North American Skater,OHL,Saginaw,0,0
 1846,2018,5,135,Vegas Golden Knights,Brandon Kruse,72528,1999-02-26,USA,"5' 10""",142,L,8481067,LW,North American Skater,WCHA,Bowning Green,0,0
 1847,2018,5,137,Dallas Stars,Riley Damiani,72822,2000-03-20,CAN,"5' 10""",170,R,8480988,C,North American Skater,OHL,Kitchener,7,0
