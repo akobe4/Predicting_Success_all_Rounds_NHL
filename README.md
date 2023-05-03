@@ -3,6 +3,9 @@
 Models do not do a good job at predicting those players who had a career of 200 games or more. 
 
 See below example of the confustion matrix for model 9. The model only predicted someone would play 200+ games accurately 9 times. 
+
+
+
 ![Alt text](Confusion%20Matrix%20-%20model%209.png)
 
 
